@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-/*************************
-Dynamic Memory Allocation
-*************************/
+/**************************
+ Dynamic Memory Allocation
+**************************/
 
 void print(int, int*);
 
